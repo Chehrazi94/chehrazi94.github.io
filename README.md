@@ -1,6 +1,14 @@
 # DATA SCIENTIST
 Data scientist with advanced research and problem-solving skills. Proficient in Python and its popular libraries for data scientists including Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib and Folium. Have experience working with typical data scientists' tools including Google Colab, Jupiter Notebook, and Github. Have experience in SQL and working with engineering software's APIs.
 
+## CERTIFICATES & COURSE WORKS
+While I have been doing data analysis and programming since the beginning of my graduate studies in September 2015, I had several courses in recent years to sharpen my skill in data analysis and learn about state of the art tools for data scientists. Especially, I would like to highlight the following certificates and courses.
+
+### IBM Data Science Professional Certificate
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1182e1ab-5ec4-4c29-abd7-85e92f855b34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+#### Selected Courses in IBM Program
+<a href="https://coursera.org/share/73fdaf4b1bbe7159ae254f7893a763a7"><img src="Python for Data Science, AI & Development"></a>
 ## SELECTED PROJECTS
 
 ### <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Bridge Inspection Data Manipulation</a>
@@ -15,6 +23,4 @@ The aim of this project is to build a classification model to determine whether 
 
 <a href="https://github.com/Chehrazi94/Titanic-Classification"><img src="Image\Titanic.jpg"></a>
 
-## CERTIFICATES & COURSE WORKS
-While I have been doing data analysis and programming since the beginning of my graduate studies in September 2015, I had several courses in recent years to sharpen my skill in data analysis and learn about state of the art tools for data scientists. Especially, I would like to highlight 10 courses I recently had in an IBM professional Data Science Certificate program.
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1182e1ab-5ec4-4c29-abd7-85e92f855b34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
