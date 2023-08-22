@@ -11,3 +11,4 @@ The aim of this project is to build a classification model to determine whether 
 
 ## Coursework
 While I have been doing data analysis and programming since the beginning of my graduate studies in September 2015, I had some courses in recent years to sharpen my skill in data analysis and learn about state of art tools for data scientists. Especially, I recently passed 10 courses in an IBM professional Data Science Certificate program.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1182e1ab-5ec4-4c29-abd7-85e92f855b34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
