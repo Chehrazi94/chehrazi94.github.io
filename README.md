@@ -9,6 +9,7 @@ While I have been doing data analysis and programming since the beginning of my 
 
 #### Selected Courses in IBM Program
 <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Python for Data Science, AI & Development</a>
+
 ## SELECTED PROJECTS
 
 ### <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Bridge Inspection Data Manipulation</a>
