@@ -1,7 +1,5 @@
 title: Ali Chehrazi
-logo: /Image/my-picture.jpg
-description: Data Scientist
-description: University of Waterloo
-description: Waterloo, Ontario.
+logo: /Image/my_picture.jpg
+description: Data Scientist       University of Waterloo        Waterloo, Ontario
 google_analytics:
 theme: jekyll-theme-minimal
