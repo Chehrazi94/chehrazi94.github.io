@@ -17,6 +17,8 @@ While I have been doing data analysis and programming since the beginning of my 
 - Data Visualization with Python
 - Machine Learning with Python
 - Applied Data Science Capstone
+
+
 ## SELECTED PROJECTS
 
 ### <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Bridge Inspection Data Manipulation</a>
