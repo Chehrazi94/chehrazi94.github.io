@@ -4,14 +4,19 @@ Data scientist with advanced research and problem-solving skills. Proficient in 
 ## CERTIFICATES & COURSE WORKS
 While I have been doing data analysis and programming since the beginning of my graduate studies in September 2015, I had several courses in recent years to sharpen my skill in data analysis and learn about state of the art tools for data scientists. Especially, I would like to highlight the following certificates and courses.
 
-### IBM Data Science Professional Certificate
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1182e1ab-5ec4-4c29-abd7-85e92f855b34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-#### Selected Courses in IBM Program
-- <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Python for Data Science, AI & Development</a>
-- <a href="https://coursera.org/share/fba2a4bc5c056238257bbee4fd01d6e4">IBM Data Analysis with Python</a>
-
-
+#### List of courses in this program
+- What is Data Science?
+- Tools for Data Science
+- Data Science Methodology
+- Python for Data Science, AI & Development
+- Python Project for Data Science
+- Databases and SQL for Data Science with Python
+- Data Analysis with Python
+- Data Visualization with Python
+- Machine Learning with Python
+- Applied Data Science Capstone
 ## SELECTED PROJECTS
 
 ### <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Bridge Inspection Data Manipulation</a>
