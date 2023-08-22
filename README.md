@@ -8,8 +8,8 @@ While I have been doing data analysis and programming since the beginning of my 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1182e1ab-5ec4-4c29-abd7-85e92f855b34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 #### Selected Courses in IBM Program
-<a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Python for Data Science, AI & Development</a>
-<a href="https://coursera.org/share/fba2a4bc5c056238257bbee4fd01d6e4">IBM Data Analysis with Python</a>
+- <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Python for Data Science, AI & Development</a>
+- <a href="https://coursera.org/share/fba2a4bc5c056238257bbee4fd01d6e4">IBM Data Analysis with Python</a>
 
 
 ## SELECTED PROJECTS
