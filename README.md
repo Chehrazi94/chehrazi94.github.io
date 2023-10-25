@@ -5,17 +5,23 @@ Data scientist with advanced research and problem-solving skills. Proficient in 
 
 ## SELECTED PROJECTS
 
+### <a href="https://github.com/Chehrazi94/Credit_Card_Fraud_Detection">Credit Card Fraud Detection</a>
+<p align="justify">
+This project uses a Random Forest classification model to detect fraudulent credit card transactions from a dataset documenting European cardholders' transactions. The dataset contains 284,807 transactions, with only 492 (0.172%) being fraudulent. It primarily consists of numerical variables derived from PCA transformation, 'Time,' 'Amount,' and the binary 'Class' variable. After importing libraries, data analysis highlighted the class imbalance issue. A Random Forest model, focusing on the f1 score, was employed, with hyperparameter tuning. The project achieved an accuracy of 0.836 on the training set and 0.845 on the test set.
+</p>
+<a href="https://github.com/Chehrazi94/Credit_Card_Fraud_Detection"><img src="Image\Credit_Card_Fraud_1.webp"></a>
+
 ### <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Bridge Inspection Data Manipulation</a>
 <p align="justify">
 The aim of this project is to collect a clean dataset with a set of standards/criteria from real bridge inspection data reported from 1992 to 2023 for the bridges in the state of New York. Each year had a separate CSV file; the data had missing values; and most of the inspection data did not meet the required standard. The output of the project was a CSV file with the selected records and a folium map with the selected bridges.
 </p>
 <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation"><img src="Image\Brooklyn-Bridge.jpg"></a>
 
-### <a href="https://github.com/Chehrazi94/Titanic-Classification">Titanic</a>
+### <a href="https://github.com/Chehrazi94/Titanic_Classification">Titanic</a>
 <p align="justify">
 The aim of this project is to build a classification model to determine whether a passenger with a set of features survives or not. In this project, first, the dataset is explored and the effect of different parameters on the survival rate is evaluated. Following that, several classification models including Logistic Regression, KNN, and Random Forest were employed to build different classification models for this problem.
 </p>
-<a href="https://github.com/Chehrazi94/Titanic-Classification"><img src="Image\Titanic.jpg"></a>
+<a href="https://github.com/Chehrazi94/Titanic_Classification"><img src="Image\Titanic.jpg"></a>
 
 
 ## CERTIFICATES & COURSE WORKS
