@@ -5,6 +5,12 @@ Data scientist with advanced research and problem-solving skills. Proficient in 
 
 ## SELECTED PROJECTS
 
+### <a href="https://github.com/Chehrazi94/House_price_prediction">House Price Prediction</a>
+<p align="justify">
+This project utilized XGBRegression to forecast property prices based on a comprehensive real estate dataset. This dataset contains extensive property attributes crucial for predicting sale prices. The project encompassed preprocessing, including handling missing values. The XGBoost regression model was fine-tuned, resulting in an R-squared score of 0.8549 during cross-validation and an impressive 0.9047 on the test dataset. This project exemplifies the effectiveness of data science techniques in predicting real estate prices and offers valuable insights into leveraging advanced algorithms for housing market analysis.
+</p>
+<a href="https://github.com/Chehrazi94/House_price_prediction"><img src="Image\House3.jpg"></a>
+
 ### <a href="https://github.com/Chehrazi94/Credit_Card_Fraud_Detection">Credit Card Fraud Detection</a>
 <p align="justify">
 This project uses a Random Forest classification model to detect fraudulent credit card transactions from a dataset documenting European cardholders' transactions. The dataset contains 284,807 transactions, with only 492 (0.172%) being fraudulent. It primarily consists of numerical variables derived from PCA transformation, 'Time,' 'Amount,' and the binary 'Class' variable. After importing libraries, data analysis highlighted the class imbalance issue. A Random Forest model, focusing on the f1 score, was employed, with hyperparameter tuning. The project achieved an accuracy of 0.836 on the training set and 0.845 on the test set.
