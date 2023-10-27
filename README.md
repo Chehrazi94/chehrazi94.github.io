@@ -15,7 +15,7 @@ This project utilized XGBRegression to forecast property prices based on a compr
 <p align="justify">
 This project uses a Random Forest classification model to detect fraudulent credit card transactions from a dataset documenting European cardholders' transactions. The dataset contains 284,807 transactions, with only 492 (0.172%) being fraudulent. It primarily consists of numerical variables derived from PCA transformation, 'Time,' 'Amount,' and the binary 'Class' variable. After importing libraries, data analysis highlighted the class imbalance issue. A Random Forest model, focusing on the f1 score, was employed, with hyperparameter tuning. The project achieved an accuracy of 0.836 on the training set and 0.845 on the test set.
 </p>
-<a href="https://github.com/Chehrazi94/Credit_Card_Fraud_Detection"><img src="Image\Credit_Card_Fraud_1.webp"></a>
+<a href="https://github.com/Chehrazi94/Credit_Card_Fraud_Detection"><img src="Image\CreditCard1.jpg"></a>
 
 ### <a href="https://github.com/Chehrazi94/Bridge_Inspection_Data_Manipulation">Bridge Inspection Data Manipulation</a>
 <p align="justify">
