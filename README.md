@@ -1,7 +1,6 @@
 # DATA SCIENTIST
 <p align="justify">
-Data scientist with advanced research and problem-solving skills. Proficient in Python and its popular libraries for data scientists including Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib and Folium. Have experience working with typical data scientists' tools including Google Colab, Jupiter Notebook, and GitHub. Have experience in SQL and working with engineering software's APIs.
-</p>
+ Data scientist with a Ph.D. in engineering and advanced research capabilities and problem-solving skills. Proficient in Python and SQL, with expertise in leading Python libraries crucial for data science such as NumPy, Pandas, Scikit-learn, and Seaborn. Proficient in utilizing key data scientist tools like Tableau, Power BI, Google Colab, Jupyter Notebook, and GitHub.</p>
 
 ## SELECTED PROJECTS
 
